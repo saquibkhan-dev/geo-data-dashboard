@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "projectName": "Project 1",
+      "latitude": 17.385,
+      "longitude": 78.4867,
+      "status": "Active",
+      "lastUpdated": "2024-12-01T10:30:00Z"
+    },
+    {
+      "id": 2,
+      "projectName": "Project 2",
+      "latitude": 28.7041,
+      "longitude": 77.1025,
+      "status": "Inactive",
+      "lastUpdated": "2024-11-20T08:15:00Z"
+    }
+    
+  ],
+  "meta": {
+    "total": 5000,
+    "page": 1,
+    "pageSize": 25
+  }
+}
